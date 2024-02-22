@@ -3,10 +3,10 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-     url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Sample Posts"
-     url: https://king-s-knowledge-graph-lab.github.io/WikidataQualityToolkit/
+    url: https://king-s-knowledge-graph-lab.github.io/WikidataQualityToolkit/
   - title: "Sample Collections"
-     url: https://king-s-knowledge-graph-lab.github.io/WikidataQualityToolkit/
+    url: https://king-s-knowledge-graph-lab.github.io/WikidataQualityToolkit/
   - title: "Sitemap"
-     url: https://king-s-knowledge-graph-lab.github.io/WikidataQualityToolkit/
+    url: https://king-s-knowledge-graph-lab.github.io/WikidataQualityToolkit/
