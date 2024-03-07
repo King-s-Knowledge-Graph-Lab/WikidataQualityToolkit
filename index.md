@@ -3,16 +3,21 @@ layout: home
 author_profile: False
 ---
 
-# Welcome to My Website!
+# Welcome to WQT Website!
 
-This is the homepage of my website. Feel free to explore the different sections and articles.
-
-## Latest Articles
-
-- [Article 1](/article-1)
-- [Article 2](/article-2)
-- [Article 3](/article-3)
-
-## About Me
-
-I am a passionate writer and developer interested in technology and creativity. Learn more about me [here](/about).
+<div class="row">
+  <div class="column">
+    <h2>Column 1</h2>
+    <p>This is the content for column 1.</p>
+  </div>
+  
+  <div class="column">
+    <h2>Column 2</h2>
+    <p>This is the content for column 2.</p>
+  </div>
+  
+  <div class="column">
+    <h2>Column 3</h2>
+    <p>This is the content for column 3.</p>
+  </div>
+</div>
