@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: People
+title: Event
 permalink: /event/
 ---
 
