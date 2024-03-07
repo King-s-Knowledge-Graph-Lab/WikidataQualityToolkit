@@ -1,12 +1,8 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
+    url: /about/
+  - title: "People"
     url: https://king-s-knowledge-graph-lab.github.io/WikidataQualityToolkit/
-  - title: "Sample Collections"
-    url: https://king-s-knowledge-graph-lab.github.io/WikidataQualityToolkit/
-  - title: "Sitemap"
+  - title: "Event"
     url: https://king-s-knowledge-graph-lab.github.io/WikidataQualityToolkit/
