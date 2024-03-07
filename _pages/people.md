@@ -4,20 +4,10 @@ title: People
 permalink: /people/
 ---
 
-## About Us
+### Project Team
 
-Welcome to the Wikidata Quality Toolkit website! We are a team of researchers and developers dedicated to improving the quality of Wikidata, a free and open knowledge base that anyone can edit.
+- **Elena Simperl (ES, PI)**: Leading AI academic, PI of Data Stories, WDAqua, Cleopatra (where the research was conducted). PI of FP7 Render, the project that originally funded Wikidata (2010-2012). Director of research at the Open Data Institute, advises the European Commission on publishing and assuring open data. ES will lead the project, oversee the design of the toolkit, and manage the strategic partnership with the Wikimedia Foundation (WF).
 
-### Our Mission
+- **Albert Meroño Peñuela (AMP, CoPI)**: With 10 years of experience in AI research, PI of MuseIT, which uses AI to add audio-visual content to Wikidata, with applications in cultural heritage. AMP will oversee all Wikidata community and be the first point of contact for SRSE.
 
-Our mission is to develop tools and methodologies for assessing and improving the quality of data in Wikidata. By promoting data quality, we aim to enhance the usability and reliability of Wikidata for users around the world.
-
-### Meet the Team
-
-- John Doe - Project Lead
-- Jane Smith - Developer
-- Alex Johnson - Researcher
-
-### Contact Us
-
-If you have any questions or feedback, please feel free to [contact us](/contact/).
+- **Odinaldo Rodrigues (OR, CoI)**: An expert in knowledge representation and reasoning, co-director of the UKRI STAI CDT, editor of the J. of Logic and Computation and the Logic J. of the IGPL. OR has extensive software engineering expertise and will be leading our software sustainability work.
