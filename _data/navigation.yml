@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "About"
-    url: https://king-s-knowledge-graph-lab.github.io/WikidataQualityToolkit/about/
+    url: /about/
   - title: "People"
-    url: https://king-s-knowledge-graph-lab.github.io/WikidataQualityToolkit/
+    url: /people/
   - title: "Event"
     url: https://king-s-knowledge-graph-lab.github.io/WikidataQualityToolkit/
