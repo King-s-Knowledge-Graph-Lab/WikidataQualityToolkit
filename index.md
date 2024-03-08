@@ -10,7 +10,7 @@ author_profile: False
     <h2>Reference Quality Verification</h2>
     <div class="content">
       <p>This is the content for column 1.</p>
-      <img src="/assets/images/logo_RQV.webp" alt="logo-RQV">
+      <img src="/assets/images/logo_RQV.jpg" alt="logo-RQV">
     </div>
   </div>
   
