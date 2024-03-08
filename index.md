@@ -8,8 +8,10 @@ author_profile: False
 <div class="row">
   <div class="column">
     <h2>Reference Quality Verification</h2>
-    <p>This is the content for column 1.</p>
-    <img src="/assets/images/logo_RQV.webp" alt="logo-RQV">
+    <div class="content">
+      <p>This is the content for column 1.</p>
+      <img src="/assets/images/logo_RQV.webp" alt="logo-RQV">
+    </div>
   </div>
   
   <div class="column">
