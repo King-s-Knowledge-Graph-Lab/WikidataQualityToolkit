@@ -11,3 +11,14 @@ permalink: /people/
 - **Albert Meroño Peñuela (AMP, CoPI)**: With 10 years of experience in AI research, PI of MuseIT, which uses AI to add audio-visual content to Wikidata, with applications in cultural heritage. AMP will oversee all Wikidata community and be the first point of contact for SRSE.
 
 - **Odinaldo Rodrigues (OR, CoI)**: An expert in knowledge representation and reasoning, co-director of the UKRI STAI CDT, editor of the J. of Logic and Computation and the Logic J. of the IGPL. OR has extensive software engineering expertise and will be leading our software sustainability work.
+
+- **Jongmo Kim
+
+- **Kholoud Alghamdi
+
+- **Miriam Redi
+
+- **Yiwen Xing
+
+- **Bohui Zhang
+(Elena, Odinaldo, Albert, Jongmo, Kholoud, Miriam, Yiwen, Bohui)
