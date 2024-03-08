@@ -7,9 +7,9 @@ author_profile: False
 
 <div class="row">
   <div class="column">
-    <h2>Reference Quality Verification</h2>
+    <h2>Reference Quality Verification (RQV)</h2>
     <div class="content">
-      <p>This is the content for column 1.</p>
+      <p>RQV addresses this challenge with an automated pipeline that verifies whether Knowledge Graph triples are supported by their documented sources. It involves text extraction, triple verbalization, sentence selection, and claim verification using rule-based methods and machine learning models. </p>
       <img src="/assets/images/logo_RQV.jpg" alt="logo-RQV">
     </div>
   </div>
