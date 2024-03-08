@@ -12,13 +12,13 @@ permalink: /people/
 
 - **Odinaldo Rodrigues (OR, CoI)**: An expert in knowledge representation and reasoning, co-director of the UKRI STAI CDT, editor of the J. of Logic and Computation and the Logic J. of the IGPL. OR has extensive software engineering expertise and will be leading our software sustainability work.
 
-- **Jongmo Kim
+- **Jongmo Kim**
 
-- **Kholoud Alghamdi
+- **Kholoud Alghamdi**
 
-- **Miriam Redi
+- **Miriam Redi**
 
-- **Yiwen Xing
+- **Yiwen Xing**
 
-- **Bohui Zhang
-(Elena, Odinaldo, Albert, Jongmo, Kholoud, Miriam, Yiwen, Bohui)
+- **Bohui Zhang**
+
