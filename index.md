@@ -2,7 +2,7 @@
 layout: home
 author_profile: False
 ---
-
+![WQT_main](../assets/images/WQT_logo.png)
 # Welcome to WQT Website!
 
 <div class="row">
