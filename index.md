@@ -7,7 +7,7 @@ author_profile: False
 
 <div class="row">
   <div class="column">
-    <h2>Reference Quality Verification (RQV)</h2>
+    <h2>Reference Quality Verification (RQV) <img src="https://king-s-knowledge-graph-lab.github.io/WikidataQualityToolkit/assets/images/logo_RQV.jpg" width="100" height="100" alt="logo-RQV"></h2>
     <div class="content", style ="display: flex;">
       <div><p>RQV provides an automated pipeline that verifies whether Knowledge Graph triples are supported by their documented sources. It involves text extraction, triple verbalization, sentence selection, and claim verification using rule-based methods and machine learning models. The users can verify the reference quality of specific document or wikidata item by using this tool. Futhermore, this tool supports to verify a batch of documents and wikidata tiems automatically. </p></div>
       <div><img src="https://king-s-knowledge-graph-lab.github.io/WikidataQualityToolkit/assets/images/logo_RQV.jpg" width="100" height="100" alt="logo-RQV"></div>
