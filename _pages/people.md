@@ -22,6 +22,7 @@ permalink: /people/
 - **Jongmo Kim**
   He is an AI backend engineer for the WQT, responsible for tasks such as AI model deployment and inference pipeline development. His research primarily focuses on knowledge graph representation learning, utilizing graph neural networks, generative methods, and large language models.
 
+![Kholoud Alghamdi](../assets/images/Kholoud.png)
 - **Kholoud Alghamdi**
   Kholoud Alghamdi is a PhD student in the Department of Informatics. She serves as a key developer of Wikidata Game+, focusing on her innovative recommender systems. She earned her master's degree in Computer Science from the University of Southampton in 2018. Prior to joining King's, she worked as a teaching assistant at King Abdulaziz University and as a data analyst in industry. Her research is centered around developing a task recommender system for the human community within community-driven knowledge graphs, with Wikidata as a primary case study.
 
