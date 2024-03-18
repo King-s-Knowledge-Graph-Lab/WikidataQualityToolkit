@@ -3,7 +3,7 @@ layout: home
 author_profile: False
 ---
 ![WQT_main](assets/images/WQT_logo.png)
-# Welcome to WQT Website!
+# Welcome to WQT Website
 
 <div class="row">
   <div class="column">
@@ -15,7 +15,7 @@ author_profile: False
   
   <div class="column">
     <h2><img src="https://king-s-knowledge-graph-lab.github.io/WikidataQualityToolkit/assets/images/logo_wikidatagame+.jpg" width="100" height="100" alt="logo-WGP"> Wikidata Game+</h2>
-    <p>Wikidata Game+ builds upon the Wikidata game by incorporating a novel recommendation system that includes user, time, and relation representation tasks based on matrix factorization, ELMo, and TransR embedding techniques. It supports providing recommendation items based on user history data and various types of machine learning techniques. </p>
+    <p>Wikidata Game+ builds upon the Wikidata Game by incorporating a novel recommendation system that provides personalised recommendation items for the editors, relying on both item features and item-editor previous interactions. It utilises users', items' content, and items' relations representations using matrix factorization, ELMo, and TransR embedding techniques. </p>
    
   </div>
   
