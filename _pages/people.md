@@ -24,8 +24,8 @@ permalink: /people/
 
 ![Kholoud Alghamdi](../assets/images/Kholoud.jpg)
 - **Kholoud Alghamdi**
-  Kholoud Alghamdi is a PhD student in the Department of Informatics. She serves as a key developer of Wikidata Game+, focusing on her innovative recommender systems. She earned her master's degree in Computer Science from the University of Southampton in 2018. Prior to joining King's, she worked as a teaching assistant at King Abdulaziz University and as a data analyst in industry. Her research is centered around developing a task recommender system for the human community within community-driven knowledge graphs, with Wikidata as a primary case study.
-
+  Kholoud Alghamdi is a PhD student in the Department of Informatics, where she serves as a key developer of Wikidata Game+, focusing on her innovative recommender systems. She earned her master's degree in Computer Science from the University of Southampton in 2018. Before joining King's College, she worked as a teaching assistant at King Abdulaziz University and as a data analyst in the industry. Her research centers on developing a task recommender system for the human community within community-driven knowledge graphs, with a primary focus on Wikidata.
+  
 ![Miriam Redi](../assets/images/Miriam.png)
 - **Miriam Redi**
   She is a Research Manager at the Wikimedia Foundation and Visiting Research Fellow at King's College London. Formerly, she worked as a Research Scientist at Yahoo Labs in Barcelona and Nokia Bell Labs in Cambridge. She received her PhD from EURECOM, Sophia Antipolis. She conducts research in social multimedia computing, working on fair, interpretable, multimodal machine learning solutions to improve knowledge equity.
