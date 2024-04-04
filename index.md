@@ -3,6 +3,8 @@ layout: home
 author_profile: False
 ---
 ![WQT_main](assets/images/WQT_logo_2.png)
+
+---
 # Welcome to WQT Website
 
 The Wikidata Quality Toolkit (WQT) is a comprehensive suite designed to support Wikidata editors and users. It includes tools such as Reference Quality Verification, Wikidata Game+, and EntitySchema Generator as its core components. As Wikidata continues to grow, ensuring its quality becomes a critical concern for both data providers and users. However, due to its large scale, dynamism, and complex data structure, maintaining Wikidata's quality is an increasingly non-trivial task, challenged by the limitations of community-based management.
@@ -10,6 +12,7 @@ The Wikidata Quality Toolkit (WQT) is a comprehensive suite designed to support 
 The WQT introduces a set of AI/ML-based tools aimed at enhancing the quality of Wikidata. By leveraging these toolkits, Wikidata editors are empowered to support the generation and refinement of Wikidata, thereby improving its overall quality. Likewise, Wikidata users are assured access to high-quality information, facilitating more reliable utilization and consumption.
 
 The WQT is open-source, offering data, software, and guidance to the community, researchers, and AI developers, reinforcing its commitment to improving Wikidata's quality and accessibility.
+---
 
 <div class="row">
   <div class="column">
