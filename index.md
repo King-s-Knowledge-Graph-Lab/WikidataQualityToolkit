@@ -12,6 +12,7 @@ The Wikidata Quality Toolkit (WQT) is a comprehensive suite designed to support 
 The WQT introduces a set of AI/ML-based tools aimed at enhancing the quality of Wikidata. By leveraging these toolkits, Wikidata editors are empowered to support the generation and refinement of Wikidata, thereby improving its overall quality. Likewise, Wikidata users are assured access to high-quality information, facilitating more reliable utilization and consumption.
 
 The WQT is open-source, offering data, software, and guidance to the community, researchers, and AI developers, reinforcing its commitment to improving Wikidata's quality and accessibility.
+
 ---
 
 <div class="row">
@@ -22,6 +23,8 @@ The WQT is open-source, offering data, software, and guidance to the community, 
       <p> Link coming soon… </p>
     </div>
   </div>
+
+---
   
   <div class="column">
     <h2><img src="https://king-s-knowledge-graph-lab.github.io/WikidataQualityToolkit/assets/images/logo_wikidatagame+.jpg" width="100" height="100" alt="logo-WGP"> Wikidata Game+</h2>
@@ -29,7 +32,9 @@ The WQT is open-source, offering data, software, and guidance to the community, 
     <p> Link coming soon… </p>
    
   </div>
-  
+
+---
+
   <div class="column">
     <h2> <img src="https://king-s-knowledge-graph-lab.github.io/WikidataQualityToolkit/assets/images/logo_EntitySchemaGenerator.jpg" width="100" height="100" alt="logo-ESG"> EntitySchema Generator</h2>
     <p>There are numerous issues with Wikidata modeling and data quality, with inconsistent modeling of EntitySchemas being one of the most significant challenges nowadays. The EntitySchema generator addresses this by generating reference patterns of entity schemas for specific topics of entities based on Large Language Models (LLMs). By training on both good and bad examples, it can generate reference patterns and evaluate the quality of entity schemas. Additionally, it can modify inconsistent entity schemas based on the generated best patterns, and provide explanations and additional comments leveraging the capabilities of LLMs. </p>
